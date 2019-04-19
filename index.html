@@ -1,0 +1,25 @@
+---
+layout: default
+title: "Ed."
+---
+<div class="introduction">
+  <h1>hey.</h1>
+
+  Siapa kamu? Namaku Dani.
+</div>
+
+<hr>
+
+<div class="toc">
+  <h2>daftar isi</h2>
+  <ul class="texts">
+  {% for item in site.texts %}
+
+    <li class="text-title">
+      <a href="{{ site.baseurl }}{{ item.url }}">
+        {{ item.title }}
+      </a>
+    </li>
+  {% endfor %}
+  </ul>
+</div>
