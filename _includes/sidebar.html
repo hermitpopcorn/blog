@@ -12,7 +12,7 @@
 
   <nav class="sidebar-nav">
     <a class="sidebar-nav-item" href="https://hermitpopcorn.github.io">Homepage</a>
-    <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ site.baseurl }}/">Blog</a>
+    <a class="sidebar-nav-item{% if page.url == '/' %} active{% endif %}" href="{{ site.baseurl }}/">Blog Home</a>
 
         {% assign pages_list = site.pages | sort:"url" %}
         {% for node in pages_list %}
@@ -25,6 +25,6 @@
   </nav>
 
   <div class="sidebar-item">
-    <p>Blog built on Jekyll with Ed. theme. I still don't know how this works.y</p>
+    <p>Blog built on <a href="https://jekyllrb.com">Jekyll</a> with <a href="https://github.com/minicomp/ed">Ed.</a> theme. I'm still not sure how this works.</p>
   </div>
 </div>
