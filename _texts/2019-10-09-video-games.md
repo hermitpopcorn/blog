@@ -23,7 +23,7 @@ Sedari dulu aku selalu bingung harus jawab apa ketika ada orang yang bertanya ho
 
 Kalau itu adalah definisi hobi, maka hobiku adalah bermain *video game*. Tapi, aku tidak pernah merasa kalau bermain *game* boleh disebut hobi. Menurutku hobi haruslah produktif, menghasilkan sesuatu, dan jika terus-menerus dilakukan, kita akan pandai membuat sesuatu yang bagus. Seperti menggambar, menulis.
 
-Tapi kalau begitu, maka aktivitas seperti bermain sepak bola tidak bisa disebut hobi. Kalau begitu, hobi tidak perlu menghasilkan sesuatu, tapi bisa menyehatkan. Dengan begitu, semua bentuk olah raga bisa menjadi hobi. Mungkin bisa dibilang produktif dalam hal menghasilkan bentuk tubuh yang bagus bagi diri sendiri.
+Tapi kalau begitu, maka aktivitas seperti bermain sepak bola tidak bisa disebut hobi. Maka, hobi tidak perlu menghasilkan sesuatu, tapi bisa menyehatkan. Dengan demikian, semua bentuk olah raga bisa menjadi hobi. Mungkin bisa dibilang produktif dalam hal menghasilkan bentuk tubuh yang bagus bagi diri sendiri.
 
 Lalu bagaimana dengan membaca, atau menonton film? Tidak menghasilkan apa-apa, dan juga tidak menyehatkan. Sebenarnya menurutku dua hal ini sama saja dengan bermain *game*. Anehnya, aku menganggap kalau membaca atau menonton film bisa menjadi hobi.
 
