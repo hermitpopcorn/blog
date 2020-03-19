@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kemasan Ricola lucu"
+title: "(id) Kemasan Ricola lucu"
 ---
 
 Lucu aja bisa ngeklik padahal kemasannya kertas

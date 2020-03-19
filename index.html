@@ -13,7 +13,7 @@ title: "blog jagung letup"
 <div class="toc">
   <h2>daftar isi</h2>
   <ul class="texts">
-  {% assign sorted_texts = site.texts | sort: "date" %}
+  {% assign sorted_texts = site.texts | sort: "date" | reverse %}
   {% for item in sorted_texts %}
 
     <li class="text-title">

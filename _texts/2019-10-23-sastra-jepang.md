@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Sastra, Jepang"
+title: "(id) Sastra, Jepang"
 ---
 
 Dasarnya aku orang yang kurang cerdas. Itu berita lama, tidak perlu dijelaskan lagi. Yang ingin kusampaikan adalah: salah satu hal yang paling bodoh yang telah kulakukan adalah masuk ke jurusan Sastra Jepang padahal tidak bisa membaca (kalau soal kenapa aku bisa lolos masuk perguruan tinggi negeri, itu kebodohan dari sisi LTMPT).

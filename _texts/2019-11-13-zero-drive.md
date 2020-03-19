@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ZERO DRIVE"
+title: "(en) ZERO DRIVE"
 ---
 
 Lately all I do is sleep, play games, and read.

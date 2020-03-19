@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ganbaruby"
+title: "(id) Ganbaruby"
 ---
 
 Fenomena psikologis yang sukar dijelaskan sains: aku merasa semangat karena disemangati oleh Kurosawa Ruby, makhluk yang tidak nyata.

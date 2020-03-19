@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Kakushinhan & The Justice Arcana"
+title: "(id) Kakushinhan & The Justice Arcana"
 ---
 
 (Lagi-lagi spoiler Persona 5.)

@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Musik dengan, dan tanpa Konteks"
+title: "(id) Musik dengan, dan tanpa Konteks"
 ---
 
 Aku baru saja menamatkan Persona 5 The Royal kemarin. Satu hal yang kufavoritkan dari game Jepang dibandingkan dari wilayah lain adalah *background music* mereka. [Sangat](https://www.youtube.com/watch?v=JpTQ7fr2yeM) [mendukung](https://www.youtube.com/watch?v=32GWbQt_Zn4) [suasana](https://www.youtube.com/watch?v=mjli_F66FMo). Tentunya memukuli iblis emas setinggi 2 kilometer bareng teman-teman sekolahmu itu keren secara mendasar, tapi [pastinya lebih asik kalau diiringi dendangan sepert ini](https://www.youtube.com/watch?v=xTH2g1JQxXc).

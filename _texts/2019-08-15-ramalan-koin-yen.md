@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Ramalan Koin Yen"
+title: "(id) Ramalan Koin Yen"
 ---
 
 Beberapa hari lalu aku dapat koin 1 Yen dari Azka yang baru pulang dari Jepang. "Untuk modal nanti ke Jepang," begitu katanya ... seingatku. Pokoknya diberikan padaku sebagai bahan lelucon. Tapi karena aku memang suka uang, 1 Yen itu tidak aku kembalikan. Ada angka 1 yang besar di satu sisi, sementara di sisi lainnya ada gambar pohon kecil. Ukurannya kecil sekali, sekitar ukuran koin 50 Rupiah. Koinnya biasa saja, sih, tapi entah mengapa aku dapat ide aneh dari benda itu.

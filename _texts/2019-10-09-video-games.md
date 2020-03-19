@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Video Games"
+title: "(id) Video Games"
 ---
 
 Basa-basi kecil yang terjadi saat aku magang setengah hari di ITB:

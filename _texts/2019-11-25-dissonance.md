@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "dissonance"
+title: "(id) dissonance"
 ---
 
 Setelah habis kubaca sampai akhir, kutumpuk jilid ke-12 komik *Kasane* di atas tumpukan jilid yang lain (9 s.d. 11). Padahal ketika membelinya aku berniat hanya akan membaca satu per hari agar tidak cepat habis, tapi tentu saja kuhabiskan semua dalam semalam karena *self control*-ku payah.
