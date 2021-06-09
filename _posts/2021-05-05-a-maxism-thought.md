@@ -3,7 +3,7 @@ layout: post
 title: "(en) a maxism thought: mankind's genesis & endgame"
 ---
 
-![Picture of my feet on beach sand.](/blog/assets/img/beach-foot.jpg)
+![Picture of my feet on beach sand.](/blog/public/image/beach-foot.jpg)
 
 I like the beach. Feeling the sea breeze on my skin is nice. Today I went to Tokoname Rinkuu Beach because I just wanted to go to the beach. I thought no one would be there, because who goes to a beach in Spring? Turns out I was wrong and the place was full of people. I wanted to flop around in the sand but I chickened out because I was afraid people would look at me weird.
 

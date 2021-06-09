@@ -15,6 +15,6 @@ It's hard for me to admit, but I'm just a useless human trash now. I've said it 
 
 You know what useless people should do?
 
-![Commit not alive.](/blog/assets/img/commit-not-alive.jpg)
+![Commit not alive.](/blog/public/image/commit-not-alive.jpg)
 
 But I don't want to do that. This month's free PS Plus game, Nioh, is pretty awesome.
