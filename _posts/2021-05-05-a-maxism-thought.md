@@ -16,7 +16,3 @@ When I played that game back in middle school, it formed my opinion of what mank
 What a grand dream, isn't it? Not like I can help with any of it, I'm just a humanities major. But well, enough about space and back to the game. What I want to say is, it's crazy how a game shaped my views on humankind. I'm pretty sure Maxis didn't make that game to be a propaganda in order to turn little kids into hungry space warmongers, they probably just designed the later stages of the game to be fun while following what scientists have said about the progression of human race. Like according to the Kardashev scale or something like that. Still, it stuck with me. It *cemented* in me what we as a race have to strive for, what the endgame is for us.
 
 If I ever make a creative work--be it a game, story, whatever--I want it not only to impress, but also *inspire*. Leave something in the hearts of people for years to come.
-
-- - - -
-
-P.S. what the hell is this post? It isn't coherent at all. At least it makes for a tough reading comprehension test, I guess...
